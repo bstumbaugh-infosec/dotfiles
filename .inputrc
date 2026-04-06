@@ -1,0 +1,5 @@
+# Vi mode readline settings
+set editing-mode vi
+set keymap vi-insert
+"hh": vi-movement-mode
+set keymap vi-command
