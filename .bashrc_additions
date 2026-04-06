@@ -1,0 +1,2 @@
+# Vi mode for bash command line
+set -o vi
