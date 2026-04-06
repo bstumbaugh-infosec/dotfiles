@@ -18,7 +18,6 @@ set mouse=a                     " Enable mouse in all modes
 " --- Display ---
 syntax on
 set number                      " Line numbers
-set relativenumber              " Relative line numbers for easy jumping
 set cursorline                  " Highlight current line
 set showmatch                   " Highlight matching brackets
 set scrolloff=8                 " Keep 8 lines above/below cursor
